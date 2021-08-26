@@ -4,5 +4,5 @@
 int main(int argc, char **argv) {
 
 printf("Roel Navarrete!\n");
-printf("Computer Science!\n");
+printf("Computer Science\n");
 }
